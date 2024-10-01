@@ -25,7 +25,7 @@ Agente conversazionale per la raccomandazione di ricette in italiano ed utilizzo
 ## Come installare le librerie
 Installare tutte le librerie contenute nel file requirements.txt con le relative versioni.
 ## Come impostare il codice
-* Copia le directory "food_chatbot", "Italian_chatbot_log" e "English_chatbot_log" all'interno della directory "\home\tuo_nome_utente_linux".
+* Copia la directory "food_chatbot"e "Italian_chatbot_log"  all'interno della directory "\home\tuo_nome_utente_linux".
 ## Come eseguire l'agente conversazionale
 * Digita tmux attach-session -t llamantino se non sei già all'interno della sessione.
 * Digita il comando python "/home/tuo_nome_utente_linux/food-chatbot/my_gradio_app_ita.py".
