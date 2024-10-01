@@ -1,5 +1,5 @@
 # Agente conversazionale per la raccomandazione di ricette
-Agente conversazionale per la raccomandazione di ricette in italiano ed utilizzo dei Large Language Models per la generazione del dialogo
+Agente conversazionale per la raccomandazione di ricette in italiano ed utilizzo dei Large Language Models per la generazione del dialogo.Il large Language Model utilizzato è Llamantino3 un ottimizzzazione per la lingua italiana del modello LlaMa3 di MetaAi.
 ## Come configurare il progetto per eseguire il codice su una macchina Windows (se stai già utilizzando una macchina con Ubuntu-20.04, salta i passaggi seguenti)
 * Assicurati che i driver NVIDIA e CUDA siano installati sulla macchina.(Se non li hai,https://developer.nvidia.com/cuda-12-3-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local e https://www.nvidia.com/download/index.aspx)
 * Apri le Funzionalità di Windows
